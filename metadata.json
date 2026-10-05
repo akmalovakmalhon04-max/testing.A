@@ -1,0 +1,6 @@
+{
+  "name": "CosmoTest Pro - Online Test Platformasi",
+  "description": "Kosmik dizaynli, mobile-first, Telegram tasdiqlash va xavfsiz server baholashli professional online test tizimi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
